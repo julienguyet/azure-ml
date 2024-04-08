@@ -111,6 +111,7 @@ Wait for job to be created, and then on the left menu, below "*Assest*", click o
 
 <img width="695" alt="azure-job" src="https://github.com/julienguyet/azure-ml/assets/55974674/783d368e-c2fa-4f77-a224-61f9a3c90c84">
 
+
 When we click on it we can see it was executed successfully. We will now register the model:
 
 <img width="612" alt="register_model" src="https://github.com/julienguyet/azure-ml/assets/55974674/6b1d0511-2e43-4278-954e-d0461bc49464">
@@ -118,6 +119,7 @@ When we click on it we can see it was executed successfully. We will now registe
 Once registered, the model can be deployed:
 
 <img width="612" alt="model_deploypment" src="https://github.com/julienguyet/azure-ml/assets/55974674/27a0bc93-e6c3-43a0-84a7-4c449004dc17">
+
 
 Note that we will stop here as deploying the model can lead to some costs (allocated IP address, etc.). Finishing this deployment step would allow you to define endpoints, authentication method, job schedules and computation power allocated to this job.
 
