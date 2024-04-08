@@ -107,7 +107,7 @@ predictions = make_predictions(user_data_df)
 print(predictions)
 ```
 
-Wait for job to be created, and then on the left menu, below "*Assest*", click on "*Jobs*". You should see this:
+Wait for job to be created, and then on the left menu, below "*Assets*", click on "*Jobs*". You should see this:
 
 <img width="695" alt="azure-job" src="https://github.com/julienguyet/azure-ml/assets/55974674/783d368e-c2fa-4f77-a224-61f9a3c90c84">
 
